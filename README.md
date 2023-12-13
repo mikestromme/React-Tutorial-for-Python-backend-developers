@@ -1,3 +1,12 @@
+# Progress
+App is working by displaying data from the model in the master branch.
+
+--------
+Progress
+--------
+20231213 - Getting a 403 error in the development branch 
+
+
 # React-Tutorial-for-Python-backend-developers
 
 
