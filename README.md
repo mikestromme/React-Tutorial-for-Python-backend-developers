@@ -1,10 +1,12 @@
 # Progress
-App is working by displaying data from the model in the master branch.
+App is working by displaying data from the model in the master and development branches.
 
 --------
-Progress
+TODO
 --------
-20231213 - Getting a 403 error in the development branch 
+- Add a way to add records via React
+- Add a way to update records via React
+- Add a way to delete records via React
 
 
 # React-Tutorial-for-Python-backend-developers

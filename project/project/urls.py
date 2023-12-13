@@ -17,10 +17,9 @@ from django.contrib import admin
 from django.urls import path, include
 #from django.conf.urls import url
 from app.views import *
-#from . import views
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', ReactView.as_view(), name="xxx"),
-    path('update', ReactView.patch, name='update_model'),
+    path('', ReactView.as_view(), name="xxx"),    
 ]
